@@ -1,0 +1,5 @@
+name: MossBlock
+version: 1.0.0
+api: 5.0.0
+main: omega892\moss\Main
+author: omega892
